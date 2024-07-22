@@ -21,6 +21,7 @@ Future<void> main() async {
     Animate.restartOnHotReload = true;
   }
 
+
   FirebaseAnalytics? firebaseAnalytics;
   FirebaseCrashlytics? crashlytics;
 
